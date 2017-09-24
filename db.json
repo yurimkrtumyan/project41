@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    [
+      {
+        "id": 2,
+        "body": "Messi",
+        "postId": 1
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "body": "Messi",
+        "postId": 1
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "body": "Messi",
+        "postId": 1
+      }
+    ],
+    {
+      "id": 3,
+      "body": "Messi",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
